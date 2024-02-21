@@ -1,0 +1,12 @@
+* {
+  background: #000;
+  box-sizing: border-box;
+}
+ul {
+  display: flex;
+  gap: 50px;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
